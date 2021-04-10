@@ -1,5 +1,5 @@
 # docker-image
 
-Info on what
+Adds all users to portfolio manager group
 
 # badges
