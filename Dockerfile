@@ -1,4 +1,4 @@
-FROM quay.io/evryfs/base-ubuntu:focal-20210713
+FROM quay.io/evryfs/base-ubuntu:focal-20210723
 LABEL maintainer "fsdevops@evry.com"
 RUN apt-get update && \
 	apt-get --no-install-recommends -y install jq && \
